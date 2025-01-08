@@ -1,0 +1,26 @@
+.title{
+    background-color: orangered;
+    padding: 25px;
+    color: white;
+    font-size: 50%;
+}
+.container{
+    margin-top: 50px;
+}
+/* Invoice-Banner Start */
+.Invoice-Banner{
+    border: 2px solid rgb(131, 131, 131);
+    border-radius: 10px;
+    padding-top: 5px;
+}
+/* Invoice-Banner End */
+
+/* Invoice-Second-Middle-Text Start */
+.Invoice-Second-Middle-Text{
+    margin-top: 10px;
+}
+.Invoice-Second-Middle-Text h6{
+    text-align: right;
+}
+
+/* Invoice-Second-Middle-Text End */

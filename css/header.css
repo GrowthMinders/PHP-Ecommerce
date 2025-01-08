@@ -1,0 +1,112 @@
+.wel{
+    margin: 40px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+  }
+  #log{
+    height: 130px;
+    width: 150px;
+    margin-top: 2%;
+  }
+  #logcon{
+    max-height: max-content;
+    width: auto;
+  }
+  tr{
+    border-bottom: 1px white solid;
+    line-height: 40px;
+    text-align: center;
+    word-spacing: 3px;
+  }
+  td{
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  #heart{
+    color: black;
+  }
+  a:hover{
+    color: green;
+  }
+  #jumb{
+    border: 2px black solid;
+    height:405px;
+    width: 405px;
+  }
+  #prof{
+    align-items: center;
+    align-content: center;
+    line-height: 40px;
+    word-spacing: 4px;
+  }
+  #req{
+    color: red;
+  }
+  #fname-error,
+  #lname-error,
+  #email-error,
+  #nic-error,
+  #phno-error,
+  #house-error,
+  #dist-error,
+  #pro-error,
+  #pass-error,
+  #cpass-error,
+  #pic-error,
+  #gen-error,
+  #city-error,
+  #town-error,
+  #year-error{
+    height: 30px;
+    width: 400px;
+    color:red;
+    margin-left: 30px;
+  }
+
+  #fname,
+  #lname,
+  #email,
+  #nic,
+  #phno,
+  #house,
+  #pass,
+  #cpass,
+  #dist,
+  #pro,
+  #pic,
+  #gen,
+  #town,
+  #city,
+  #pcateg,
+  #pavail{
+    width: 217px;
+    height: 30px;
+  }
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+.container{
+  margin-top: 50px;
+}
+
+.container-fluid{
+  margin-top: 50px;
+}
+#search{
+  border-radius: 8px;
+}
+.update-button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  color: #000;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  text-align: center;
+  text-decoration: none;
+}
